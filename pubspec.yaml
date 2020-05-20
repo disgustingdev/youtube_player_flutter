@@ -10,7 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  webview_media: '>=0.1.2 <1.0.0'
+  webview_media:
+    git: https://github.com/disgustingdev/webview_media
 
 dev_dependencies:
   flutter_test:
